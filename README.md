@@ -6,6 +6,7 @@
 5. In xcode, open InflationCalc.xcworkspace and build to make sure it can build successfully.
 
 6. npm install appcenter appcenter-analytics appcenter-crashes --save-exact
+6a. cd ios and run pod install --repo-update to install cocoapods dependencies
 7. Open the InflationCalc.xcworkspace in xcode
 8. Create a new file AppCenter-Config.plist 
     Right click to Create file Go to Resource section and select PropertyList
@@ -47,5 +48,25 @@ sudo gem install cocoapods
 pod --version
 ```
 
-  
+On android
+```
+go to main
+create a folder called assets
+and under assets, create a file called appcenter-config.json
+with the content
+{
+    "app_secret" : "xxxx"
+}
+Navigate to App center and copy the app secret for android app
+Go to res folder
+Go to values folder
+and open strings.xml
+add the following:
+<string name="appCenterCrashes_whenToSendCrashes"
+            moduleConfig="true"
+            translatable="false">ALWAYS_SEND</string>
+<string name="appCenterAnalytics_whenToEnableAnalytics"
+    moduleConfig="true"
+    translatable="false">ALWAYS_SEND</string>
+```
   
