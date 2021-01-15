@@ -31,11 +31,12 @@
     [AppCenterReactNativeCrashes registerWithAutomaticProcessing];
 
 
-After install ruby 3.0.0, 
+```
 gem uninstall cocoapods
 gem uninstall cocoapods-core
 gem uninstall cocoapods-downloader
 gem install cocoapods
+```
 
 
 # Steps: 
