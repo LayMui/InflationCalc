@@ -6,7 +6,9 @@
 5. In xcode, open InflationCalc.xcworkspace and build to make sure it can build successfully.
 
 6. npm install appcenter appcenter-analytics appcenter-crashes --save-exact
+
 6a. cd ios and run pod install --repo-update to install cocoapods dependencies
+
 7. Open the InflationCalc.xcworkspace in xcode
 8. Create a new file AppCenter-Config.plist 
     Right click to Create file Go to Resource section and select PropertyList
