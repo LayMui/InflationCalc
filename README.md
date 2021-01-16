@@ -78,3 +78,4 @@ add the following:
 
 
 [![Build status](https://build.appcenter.ms/v0.1/apps/a4e334ca-baf9-4507-8b9f-2b7de73e9df7/branches/dev/badge)](https://appcenter.ms)
+[![Build status](https://build.appcenter.ms/v0.1/apps/f5278098-f754-429c-a22f-e15dfe9079bd/branches/feature2/badge)](https://appcenter.ms)
