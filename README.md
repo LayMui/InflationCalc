@@ -72,6 +72,5 @@ add the following:
     translatable="false">ALWAYS_SEND</string>
 ```
 
-[![Build status](https://build.appcenter.ms/v0.1/apps/d822311b-92cc-475e-99fe-9d4d0953783d/branches/dev/badge)](https://appcenter.ms)
-  
-[![Build status](https://build.appcenter.ms/v0.1/apps/ee8ea782-fd20-42d0-a87b-a7d5770e2a0d/branches/dev/badge)](https://appcenter.ms)
+[![Build status](https://build.appcenter.ms/v0.1/apps/a4e334ca-baf9-4507-8b9f-2b7de73e9df7/branches/dev/badge)](https://appcenter.ms)
+[![Build status](https://build.appcenter.ms/v0.1/apps/f5278098-f754-429c-a22f-e15dfe9079bd/branches/feature2/badge)](https://appcenter.ms)
