@@ -71,4 +71,7 @@ add the following:
     moduleConfig="true"
     translatable="false">ALWAYS_SEND</string>
 ```
+
+[![Build status](https://build.appcenter.ms/v0.1/apps/d822311b-92cc-475e-99fe-9d4d0953783d/branches/dev/badge)](https://appcenter.ms)
   
+[![Build status](https://build.appcenter.ms/v0.1/apps/ee8ea782-fd20-42d0-a87b-a7d5770e2a0d/branches/dev/badge)](https://appcenter.ms)
